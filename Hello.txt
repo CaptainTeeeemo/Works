@@ -1,0 +1,9 @@
+ <!DOCTYPE html>
+<html>
+<body>
+<h1>Hellos JS</h1>
+<script>
+console.log("Hellod World!");
+</script>
+</body>
+</html>
